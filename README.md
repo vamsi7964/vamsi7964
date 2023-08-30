@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vamsi
-- 👀 I’m interested in solving challenging business problems using DS algorithms
-- 🌱 I’m currently learning deep neural networks and applications of recent SOTA language models
-- 💞️ I’m looking to collaborate on machine learning, NLP, statistical modeling projects
+- 👀 I’m interested in solving challenging business problems leveraging Data Science techniques
+- 🌱 I’m looking to collaborate on machine learning, NLP, statistical modeling projects
 - 📫 How to reach me ... krishna.vamsi80@gmail.com
 
 <!---
